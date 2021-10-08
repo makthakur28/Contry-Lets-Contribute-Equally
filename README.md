@@ -14,7 +14,7 @@ I created my second Android Application name Contry using java  and XML on Andro
 <li> Attractive User Interface. </li>
 
 ## click here to watch video:
-<a href="https://drive.google.com/file/d/12qI96rCgnMBpcWAngdbe2ePt5zCHOS0X/view?usp=sharing">![Contry-thumbnail](https://drive.google.com/file/d/1zieq7xKMjrM1S9i_-SSm1KrBVeh7h8x_/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1BSuu4BENSrsf6BuWK43ZngnS1VjaaRRf/view?usp=sharing">![Contry-Thumbnail](https://user-images.githubusercontent.com/77043968/136621343-e0398cd0-dbc5-4472-9c32-8c06f179b360.jpg)
 </a>
 
 ### Follow me on:
